@@ -1,5 +1,5 @@
 # Decoder-side Cross Resolution Synthesis for Video Compression Enhancement
-Official Pytorch Implementation for "Decoder-side Cross Resolution Synthesis for Video Compression Enhancement"[[Paper]](https://ieeexplore.ieee.org/abstract/document/9681152/), IEEE Transactions on Multimedia
+Official Pytorch Implementation for "Decoder-side Cross Resolution Synthesis for Video Compression Enhancement"[[Paper]](https://ieeexplore.ieee.org/abstract/document/9681152/), IEEE Transactions on Multimedia.
 
 ## Citation
 If you find this work useful for your research, please cite:
