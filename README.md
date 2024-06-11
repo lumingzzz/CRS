@@ -14,4 +14,4 @@ If you find this work useful for your research, please cite:
 }
 ```
 ## Contact
-If you have any question, please contact me via luming@smail.nju.edu.cn.
+If you have any question, please contact me via minglu@nju.edu.cn.
